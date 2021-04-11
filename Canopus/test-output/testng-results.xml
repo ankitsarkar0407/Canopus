@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37591" started-at="2021-04-10T14:31:35Z" finished-at="2021-04-10T14:32:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37591" started-at="2021-04-10T14:31:35Z" finished-at="2021-04-10T14:32:13Z">
+      <class name="com.oxytech.testcases.PopulationCounter">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.oxytech.testcases.PopulationCounter@780cb77]" name="openBrowser" duration-ms="37511" started-at="2021-04-10T14:31:35Z" finished-at="2021-04-10T14:32:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- com.oxytech.testcases.PopulationCounter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
